@@ -24,17 +24,3 @@ How do social media affect your communication with them?
   <source src="https://znkf9a.bl.files.1drv.com/y4mpIhPoVosF9Q0W3p8J--izZnD3hsLqOerISTA-_1RwsAFmV2wgsXakqdsdhy0rO9mxH1-9we-rkFZ4PZLTSI14b1PG8PeJ8qglsJt2KwZEvJC5EJELXC6sZbyZ5OOUR6b9J_W_LGKr9mDkWJadNYalKg8bZ_Z2s-cfotYvDhkGHQBPs2TBZH-M6Zqur05maZCIYBjYvcyvaSdnf8nInHb_rzXCSHLbgJVTY33u0LOXkk?AVOverride=1" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
-> I resonate with this particular standpoint.
->
-> Yet, what constitutes a friend? Defining this term is pivotal to the discourse.
->
-> Why do we seek friends?
->
-> According to Maslow's hierarchy of needs: physiological, safety, social (including love and belonging), esteem, and self-actualization. The initial trio represents fundamental needs that must be satisfied, while the latter trio embodies advanced needs that emerge once basic requirements are met, signifying the human yearning for problem-solving and comprehension, as well as the quest to explore various phenomena. It becomes evident that friends serve the apex of basic needs—social interaction. We might posit that friends exist to fulfill our social necessities.
->
-> However, those who fulfill this need are not exclusively friends. They could be your partner, your parents, or even a stranger seated beside you during a flight, and in more exceptional cases, an inanimate object might assume the role of a friend.
->
-> Hence, in a narrow sense, friends are not an essential component of self-satisfaction, whereas in a broader sense, they are indeed vital.
->
-> Your 'friend' need not be a friend."
