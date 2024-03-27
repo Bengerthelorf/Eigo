@@ -6,9 +6,9 @@ College is a time when you actively seek out new friendships. What kind of relat
 
 > Indeed, the college offers an unique opportunity for us to establish diverse relationships and emotional bonds with different people.
 >
-> Engaging with professors, I hope to have a relationship anchored in esteem where I can seek guidance and respect to this guidance, which will help to maintain a healthy relationship with professors.
+> Engaging with professors, I hope to have a relationship anchored in esteem where I can seek guidance and respect to those guidance, which will help to maintain a healthy relationship with professors.
 >
-> For peers, with roommates and classmates alike, my hope is to weave bonds of friendship that are rooted in shared interests and mutual support. Crafting intimate emotional ties where hearts can converse without restraint.
+> For peers, like roommates and classmates, my hope is to weave bonds of friendship that are rooted in shared interests and mutual support. Establishing intimate emotional ties where hearts can converse without restraint.
 
 How do social media affect your communication with them?
 
