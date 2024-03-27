@@ -2,7 +2,7 @@
 
 <figure>
   <audio controls>
-    <source src="https://public.bl.files.1drv.com/y4maZbFG9sa5Sm-H7VGSsXViA_rOyNQxe_m_KCBe05pVfwQStkXskWN6SQQTRD3FRGxhXOPLDZnzSho0QeMmdIVy3o3y2-2CcOVrCZJXHiiPxXJuDrvP7oo63qFIPN9IFr_EZcC3nvJy_vTGrH1rA-cfS1jEnRDiK-9p7b4ad_dQ3dCHbiQ-ic3g6ker1rCOcAXc4vd7JJ4NYL5_w9trlo4ovOe3bNfKKn7vLIQJr24TDs" type="audio/mp3">
+    <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/hw_2.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 </figure>
