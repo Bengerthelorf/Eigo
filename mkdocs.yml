@@ -3,7 +3,8 @@ site_description: 📚
 site_author: 🐱
 
 theme:
-  name: bootstrap386
+  # name: bootstrap386
+  name: bootstrap
 
 nav:
   - BIOS: index.md

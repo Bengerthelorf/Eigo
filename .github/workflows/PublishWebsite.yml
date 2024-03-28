@@ -18,5 +18,6 @@ jobs:
       - run: pip install mkdocs
       - run: pip install mkdocs-material
       - run: pip install mkdocs-terminal
+      - run: pip install mkdocs-bootstrap
       - run: pip install mkdocs-bootstrap386
       - run: mkdocs gh-deploy --force
