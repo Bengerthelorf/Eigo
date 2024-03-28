@@ -3,7 +3,7 @@
 
 <center>
 
-![cirno](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/cirno.gif)
+![cirno](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/img/cirno.gif)
 
 </center>
 

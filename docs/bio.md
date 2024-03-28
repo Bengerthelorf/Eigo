@@ -14,6 +14,6 @@
 
 ```
 
-![evil](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/evil.gif){:height="50%" width="50%"}
+![neuro](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/img/neuro.gif)
 
 </center>

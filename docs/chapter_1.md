@@ -21,7 +21,7 @@ How do social media affect your communication with them?
 ## ## 2️⃣
 
 <audio controls>
-  <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/hw_1.mp3" type="audio/mpeg">
+  <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/aud/hw_1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
