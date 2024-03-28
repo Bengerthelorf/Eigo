@@ -1,1 +1,12 @@
 site_name: 💜
+site_description: 📚
+site_author: 🐱
+theme: bootstrap386
+
+nav:
+  - 👾 : index.md
+  - 📎:
+    - ⚈ 🀇 🀙 🀐 🂡 🁤: chapter_1.md
+    - ⚉ 🀈 🀚 🀑 🂢 🁥: chapter_2.md
+    - ⚆ 🀉 🀛 🀒 🂣 🁦: chapter_3.md
+  - ❕: toBeContinued.md

@@ -1,4 +1,4 @@
-# ♵
+# Assignment ♵
 
 If you examine yourself according to the five dimensions defined by Dr. Goleman, which one(s) do you think you need and can improve? What are you going to do to improve that? Be specific about your point and suggestions.
 
