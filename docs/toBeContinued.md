@@ -1,4 +1,5 @@
-# ♺ *to be continued ...*
+
+# ♺ /to be continued .../
 
 <center>
 
@@ -8,6 +9,6 @@
 
 <div style="text-align: right"> 
 
-# to be continued ...
+# /to be continued .../
 
 </div> 

@@ -6,7 +6,8 @@ theme:
   name: bootstrap386
 
 nav:
-  - 👾 : index.md
+  - Windows: index.md
+  - 👾 : bio.md
   - 📎:
     - ⚈ 🀇 🀙 🀐 🂡 🁤: chapter_1.md
     - ⚉ 🀈 🀚 🀑 🂢 🁥: chapter_2.md
