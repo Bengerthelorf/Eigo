@@ -1,7 +1,8 @@
 site_name: 💜
 site_description: 📚
 site_author: 🐱
-theme: bootstrap386
+theme:
+  name: bootstrap386
 
 nav:
   - 👾 : index.md
