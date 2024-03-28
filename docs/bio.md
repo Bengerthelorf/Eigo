@@ -1,8 +1,6 @@
 
 # Bio (?|!)
 
-<center>
-
 ```zsh
 
   _____                  _                           
@@ -13,6 +11,8 @@
                                                |___/ 
 
 ```
+
+<center>
 
 ![neuro](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/img/neuro.gif)
 
