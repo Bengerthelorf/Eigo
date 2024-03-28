@@ -1,13 +1,14 @@
 site_name: 💜
 site_description: 📚
 site_author: 🐱
-theme:
-  name: terminal
 
-nav:
-  - 👾 : index.md
-  - 📎:
-    - ⚈ 🀇 🀙 🀐 🂡 🁤: chapter_1.md
-    - ⚉ 🀈 🀚 🀑 🂢 🁥: chapter_2.md
-    - ⚆ 🀉 🀛 🀒 🂣 🁦: chapter_3.md
-  - ❕: toBeContinued.md
+theme:
+  name: bootstrap386
+
+# nav:
+#   - 👾 : index.md
+#   - 📎:
+#     - ⚈ 🀇 🀙 🀐 🂡 🁤: chapter_1.md
+#     - ⚉ 🀈 🀚 🀑 🂢 🁥: chapter_2.md
+#     - ⚆ 🀉 🀛 🀒 🂣 🁦: chapter_3.md
+#   - ❕: toBeContinued.md
