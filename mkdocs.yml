@@ -1,4 +1,4 @@
-site_name: 💜
+site_name: Windows 386
 site_description: 📚
 site_author: 🐱
 
@@ -6,10 +6,10 @@ theme:
   name: bootstrap386
 
 nav:
-  - Windows: index.md
-  - 👾 : bio.md
-  - 📎:
+  - BIOS: index.md
+  - Home: bio.md
+  - Files:
     - ⚈ 🀇 🀙 🀐 🂡 🁤: chapter_1.md
     - ⚉ 🀈 🀚 🀑 🂢 🁥: chapter_2.md
     - ⚆ 🀉 🀛 🀒 🂣 🁦: chapter_3.md
-  - ❕: toBeContinued.md
+  - Help: toBeContinued.md
