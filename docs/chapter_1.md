@@ -2,7 +2,7 @@
 
 ## HW_1
 
-### ### 1️⃣
+### ### ⑨
 
 College is a time when you actively seek out new friendships. What kind of relationship do you want to establish with your professors, roommates and classmates?
 
@@ -20,7 +20,7 @@ How do social media affect your communication with them?
 >
 > Even though the role of social media as supplement is immense, it can never replace face-to-face interactions. Gathering to watch a movie, sharing a meal, or even wandering without purpose are all going deeper than the casual chats we have on social media. Rather than saying they are in a relationship of exclusivity, it's more accurate to say they complement and enhance each other.
 
-### ### 2️⃣
+### ### ⑨ˬ⑨
 
 <audio controls>
   <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/aud/hw_1.mp3" type="audio/mpeg">
