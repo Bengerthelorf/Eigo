@@ -4,7 +4,7 @@
 
 <figure>
   <audio controls>
-    <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/aud/hw_2.mp3" type="audio/mp3">
+    <source src="https://github.com/Bengerthelorf/Contents/raw/main/aud/hw_2.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 </figure>

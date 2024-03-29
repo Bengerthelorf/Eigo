@@ -2,10 +2,13 @@
 
 ## HW_3
 
-<audio controls>
-  <source src="https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/aud/hw_3_1.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<figure>
+  <audio controls>
+    <source src="https://github.com/Bengerthelorf/Contents/raw/main/aud/hw_3.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+</figure>
+
 
 > Daniel Goleman's emotional intelligence theory outlines five components of EI: self-awareness, self-regulation, motivation, empathy, and social skills.
 >

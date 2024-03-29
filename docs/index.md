@@ -3,7 +3,7 @@
 
 <center>
 
-![neuro](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/img/funky-cirno.gif)
+![funky-cirno](https://github.com/Bengerthelorf/Contents/raw/main/img/funky-cirno.gif)
 
 </center>
 

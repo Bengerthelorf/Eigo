@@ -2,7 +2,7 @@
 
 <center>
 
-![cirno](https://cdn.jsdelivr.net/gh/Bengerthelorf/Contents@main/img/cirno.gif)
+![cirno](https://github.com/Bengerthelorf/Contents/raw/main/img/cirno.gif)
 
 </center>
 
