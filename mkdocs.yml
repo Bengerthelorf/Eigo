@@ -21,6 +21,8 @@ nav:
     - ⚈ ASSIGNMENT_1: chapter_1.md
     - ⚉ ASSIGNMENT_2: chapter_2.md
     - ⚆ ASSIGNMENT_3: chapter_3.md
+    - ⚇ ASSIGNMENT_4: chapter_4.md
+    - ⚈ ASSIGNMENT_5: chapter_5.md
   - Baka: toBeContinued.md
 
 plugins: ['search']
